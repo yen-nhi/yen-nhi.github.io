@@ -7,8 +7,6 @@ img{
 }
 li, p, h2, ul, li{
     font-family: arial;
-    padding: 0%;
-    margin: 0%;
 }
 
 header{
@@ -21,7 +19,7 @@ header{
     left: 0%;
     width: 100%;
     font-size: 30px;
-    padding: -10px;
+    padding: 20px;
 }
 header h3{
     padding: 9px 18px;
